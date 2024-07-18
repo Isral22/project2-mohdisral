@@ -583,10 +583,8 @@
         </div>
 
         <div class="col-lg-7">
-            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
-            <div class="row gy-4">
 
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.459455539967!2d106.84844107462746!3d-6.2029609937848145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f46f1aa68feb%3A0x1025d8e539e14ede!2sUniversitas%20Nahdlatul%20Ulama%20Indonesia%20(UNUSIA)%20Jakarta!5e0!3m2!1sid!2sid!4v1721307201563!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.459455539967!2d106.84844107462746!3d-6.2029609937848145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f46f1aa68feb%3A0x1025d8e539e14ede!2sUniversitas%20Nahdlatul%20Ulama%20Indonesia%20(UNUSIA)%20Jakarta!5e0!3m2!1sid!2sid!4v1721307201563!5m2!1sid!2sid" width="500" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
             </div>
             </form>
